@@ -1,4 +1,4 @@
-FROM node:21.7.2-bookworm-slim
+FROM node:22.4.1-bookworm-slim
 
 RUN npm install --global awesome-lint
 
