@@ -1,4 +1,4 @@
-FROM node:22.18.0-alpine3.22
+FROM node:22.20.0-alpine3.22
 
 RUN npm install --global awesome-lint
 
